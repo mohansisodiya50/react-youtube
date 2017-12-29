@@ -1,8 +1,9 @@
 {
-  "name": "spa-github-pages",
+  "name": "react-youtube",
   "version": "5.1.0",
   "private": true,
   "description": "Single Page Apps for GitHub Pages",
+  "homepage": "https://mohansisodiya50.github.io/react-youtube/",
   "scripts": {
     "start": "webpack-dev-server --devtool eval-source-map --history-api-fallback --open",
     "build": "webpack -p"
